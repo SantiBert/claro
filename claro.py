@@ -31,20 +31,29 @@ for link in links_ids:
     # aisla la parte del json que contien infomacion sobre las peliculas y series
     movies = data["response"]["groups"]
     for movie in movies:
+        # Mensaje en consola para desterminar que producto se esta cargando
         print("cargando {}".format(movie["title"]))
+        # consulta a elemento "season_number" para determinar si se trata de una Película o una serie
         if movie["season_number"] is None:
             type_product = 'Película'
         else:
             type_product = 'Serie'
-
+        # Llamada por medio de la id del producto para obtener informacion extra (Reparto y generos)
         unique_link = url_deatail.format(movie['id'])
         response_deatail = requests.get(unique_link, headers=headers)
+        # convertimos la info extra en un  json
         detail_data = response_deatail.json()
+        # aislamos la parte donde se encuentra la información deseada
         extra_data = detail_data["response"]["group"]["common"]["extendedcommon"]
+        # creamos la lista de generos, en caso de no contar con este atributo se vuelve un atributo nula
         try:
-            genres = extra_data["genres"]["genre"]
+            genres = []
+            genres_list = extra_data["genres"]["genre"]
+            for genre in genres_list:
+                genres.append(genre['desc'])
         except:
             genres = None
+        # creamos la lista de el reparto, en caso de no contar con este atributo se vuelve un atributo nula
         try:
             talents = extra_data["roles"]["role"]
         except:
@@ -61,6 +70,9 @@ for link in links_ids:
             'talents': talents,
         }})
 
+# mensaje en consolo que notifica que la búsqueda terminó
 print("cargado completo")
+
+# creamos un archivo json con todo el catalogo con panda
 df = pd.DataFrame(product)
-df.to_json('catalogo3.json')
+df.to_json('catalogo.json')
