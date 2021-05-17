@@ -1,0 +1,797 @@
+{
+    "entry": {
+        "device_id": "web",
+        "device_category": "web",
+        "device_model": "web",
+        "device_type": "web",
+        "device_so": "Chrome",
+        "format": "json",
+        "device_manufacturer": "generic",
+        "authpn": "webclient",
+        "authpt": "tfg1h3j4k6fd7",
+        "api_version": "v5.92",
+        "region": "argentina",
+        "HKS": "web6025eb61e5ce2",
+        "user_id": "49420412",
+        "group_id": "698252"
+    },
+    "response": {
+        "group": {
+            "common": {
+                "position": 0,
+                "id": "698252",
+                "title": "Sherlock Holmes",
+                "description": "El infalible Sherlock Holmes enfrenta a su Némesis, cuyo plan podría destruir Inglaterra.",
+                "large_description": "El famoso personaje creado por Arthur Conan Doyle, y su fiel ayudante, Watson, se enfrentan en una contienda de intelecto y fuerza con su Némesis, cuyo plan es una amenaza para Inglaterra. Nominada a dos premios Oscar.",
+                "short_description": null,
+                "duration": "02:08:21",
+                "image_large_alt": "Sherlock Holmes",
+                "image_medium_alt": "Sherlock Holmes",
+                "image_small_alt": "Sherlock Holmes",
+                "image_large": "https:\/\/clarovideocdn7.clarovideo.net\/PELICULAS\/SHERLOCKHOLMES\/EXPORTACION_WEB\/SS\/SHERLOCKHOLMESWHORIZONTAL.jpg?size=675x380",
+                "image_medium": "https:\/\/clarovideocdn5.clarovideo.net\/PELICULAS\/SHERLOCKHOLMES\/EXPORTACION_WEB\/SS\/SHERLOCKHOLMESWVERTICAL.jpg?size=200x300",
+                "image_small": "https:\/\/clarovideocdn7.clarovideo.net\/PELICULAS\/SHERLOCKHOLMES\/EXPORTACION_WEB\/SS\/SHERLOCKHOLMESWHORIZONTAL.jpg?size=290x163",
+                "image_still": "https:\/\/clarovideocdn6.clarovideo.net\/PELICULAS\/SHERLOCKHOLMES\/EXPORTACION_WEB\/STILLS\/SHERLOCKHOLMES-STILL-01.jpg",
+                "image_background": "https:\/\/clarovideocdn7.clarovideo.net\/PELICULAS\/SHERLOCKHOLMES\/EXPORTACION_WEB\/CLEAN\/SHERLOCKHOLMES_e-1280x720.jpg",
+                "image_base_horizontal": "https:\/\/clarovideocdn4.clarovideo.net\/PELICULAS\/SHERLOCKHOLMES\/EXPORTACION_WEB\/SS\/SHERLOCKHOLMESWHORIZONTAL.jpg",
+                "image_base_vertical": "https:\/\/clarovideocdn2.clarovideo.net\/PELICULAS\/SHERLOCKHOLMES\/EXPORTACION_WEB\/SS\/SHERLOCKHOLMESWVERTICAL.jpg",
+                "image_base_square": "https:\/\/clarovideocdn2.clarovideo.net\/PELICULAS\/SHERLOCKHOLMES\/EXPORTACION_WEB\/SS\/SHERLOCKHOLMESWCUADRADO.jpg",
+                "image_clean_horizontal": "https:\/\/clarovideocdn7.clarovideo.net\/PELICULAS\/SHERLOCKHOLMES\/EXPORTACION_WEB\/CLEAN\/SHERLOCKHOLMESWHORIZONTAL.jpg",
+                "image_clean_vertical": "https:\/\/clarovideocdn5.clarovideo.net\/PELICULAS\/SHERLOCKHOLMES\/EXPORTACION_WEB\/CLEAN\/SHERLOCKHOLMESWVERTICAL.jpg",
+                "image_clean_square": "https:\/\/clarovideocdn5.clarovideo.net\/PELICULAS\/SHERLOCKHOLMES\/EXPORTACION_WEB\/CLEAN\/SHERLOCKHOLMESWCUADRADO.jpg",
+                "image_sprites": "https:\/\/clarovideocdn8.clarovideo.net\/PELICULAS\/SHERLOCKHOLMES\/EXPORTACION_WEB\/SPRITES\/SHERLOCKHOLMES-SPRITEBAR.jpg",
+                "image_frames": "https:\/\/clarovideocdn4.clarovideo.net\/PELICULAS\/SHERLOCKHOLMES\/EXPORTACION_WEB\/SPRITES\/SHERLOCKHOLMES-00h-00m-00s-00f.jpg",
+                "image_external": null,
+                "date": "20200908164633",
+                "media_type": "2",
+                "title_uri": "Sherlock-Holmes",
+                "extendedcommon": {
+                    "keywords": {
+                        "keyword": [
+                            "5320",
+                            "5421"
+                        ]
+                    },
+                    "genres": {
+                        "genre": [
+                            {
+                                "id": "51131",
+                                "name": "Action",
+                                "desc": "Acción"
+                            },
+                            {
+                                "id": "51022",
+                                "name": "Adventure",
+                                "desc": "Aventura"
+                            }
+                        ]
+                    },
+                    "roles": {
+                        "role": [
+                            {
+                                "id": "13617516",
+                                "name": "Actor",
+                                "desc": "Actor",
+                                "talents": {
+                                    "talent": [
+                                        {
+                                            "id": "13663509",
+                                            "name": "James",
+                                            "surname": "Fox",
+                                            "fullname": "Fox, James"
+                                        },
+                                        {
+                                            "id": "13639905",
+                                            "name": "Jude",
+                                            "surname": "Law",
+                                            "fullname": "Law, Jude"
+                                        },
+                                        {
+                                            "id": "15026108",
+                                            "name": "Robert",
+                                            "surname": "Downey Jr.",
+                                            "fullname": "Downey Jr., Robert"
+                                        },
+                                        {
+                                            "id": "51060456",
+                                            "name": "William",
+                                            "surname": "Hope",
+                                            "fullname": "Hope, William"
+                                        },
+                                        {
+                                            "id": "15663929",
+                                            "name": "Rachel",
+                                            "surname": "McAdams",
+                                            "fullname": "McAdams, Rachel"
+                                        },
+                                        {
+                                            "id": "13657678",
+                                            "name": "Hans",
+                                            "surname": "Matheson",
+                                            "fullname": "Matheson, Hans"
+                                        },
+                                        {
+                                            "id": "137213170",
+                                            "name": "William",
+                                            "surname": "Houston",
+                                            "fullname": "Houston, William"
+                                        },
+                                        {
+                                            "id": "15025252",
+                                            "name": "Mark",
+                                            "surname": "Strong",
+                                            "fullname": "Strong, Mark"
+                                        },
+                                        {
+                                            "id": "66035971",
+                                            "name": "Eddie",
+                                            "surname": "Marsan",
+                                            "fullname": "Marsan, Eddie"
+                                        },
+                                        {
+                                            "id": "138671019",
+                                            "name": "Geraldine",
+                                            "surname": "James",
+                                            "fullname": "James, Geraldine"
+                                        },
+                                        {
+                                            "id": "22973366",
+                                            "name": "Kelly",
+                                            "surname": "Reilly",
+                                            "fullname": "Reilly, Kelly"
+                                        }
+                                    ]
+                                }
+                            },
+                            {
+                                "id": "13617517",
+                                "name": "Director",
+                                "desc": "Director",
+                                "talents": {
+                                    "talent": [
+                                        {
+                                            "id": "13653902",
+                                            "name": "Guy",
+                                            "surname": "Ritchie",
+                                            "fullname": "Ritchie, Guy"
+                                        }
+                                    ]
+                                }
+                            },
+                            {
+                                "id": "13965645",
+                                "name": "Producer",
+                                "desc": "Productor",
+                                "talents": {
+                                    "talent": [
+                                        {
+                                            "id": "138679778",
+                                            "name": "Dan",
+                                            "surname": "Lin",
+                                            "fullname": "Lin, Dan"
+                                        },
+                                        {
+                                            "id": "138671574",
+                                            "name": "Susan",
+                                            "surname": "Downey",
+                                            "fullname": "Downey, Susan"
+                                        },
+                                        {
+                                            "id": "138671640",
+                                            "name": "Lionel",
+                                            "surname": "Wigram",
+                                            "fullname": "Wigram, Lionel"
+                                        },
+                                        {
+                                            "id": "130659912",
+                                            "name": "Joel",
+                                            "surname": "Silver",
+                                            "fullname": "Silver, Joel"
+                                        }
+                                    ]
+                                }
+                            },
+                            {
+                                "id": "13965643",
+                                "name": "Writer",
+                                "desc": "Escritor",
+                                "talents": {
+                                    "talent": [
+                                        {
+                                            "id": "138671564",
+                                            "name": "Anthony",
+                                            "surname": "Peckham",
+                                            "fullname": "Peckham, Anthony"
+                                        },
+                                        {
+                                            "id": "118633072",
+                                            "name": "Simon",
+                                            "surname": "Kinberg",
+                                            "fullname": "Kinberg, Simon"
+                                        }
+                                    ]
+                                }
+                            }
+                        ]
+                    },
+                    "format": {
+                        "id": "164692902",
+                        "name": "Type EST 2B",
+                        "types": "ppe,download",
+                        "sell_type": "ppe",
+                        "est": "N"
+                    },
+                    "media": {
+                        "originaltitle": "Sherlock Holmes",
+                        "description_extended": "El famoso personaje creado por Arthur Conan Doyle, y su fiel ayudante, Watson, se enfrentan en una contienda de intelecto y fuerza con su Némesis, cuyo plan es una amenaza para Inglaterra. Nominada a dos premios Oscar.",
+                        "publishyear": "2009",
+                        "boxoffice": "209.02",
+                        "rating": {
+                            "id": "30",
+                            "code": "PG-13",
+                            "desc": "Apta para mayores de 13"
+                        },
+                        "duration": "02:08:21",
+                        "haspreview": "true",
+                        "countryoforigin": {
+                            "code": "US",
+                            "desc": "Estados Unidos"
+                        },
+                        "profile": {
+                            "audiotype": "Stereo",
+                            "videotype": "Color",
+                            "screenformat": "16:9",
+                            "hd": {
+                                "enabled": "true",
+                                "detail": "720p"
+                            }
+                        },
+                        "islive": "0",
+                        "livetype": null,
+                        "liveref": null,
+                        "timeshift": null,
+                        "encoder_tecnology": {
+                            "id": null,
+                            "desc": null
+                        },
+                        "recorder_technology": {
+                            "id": null,
+                            "desc": null
+                        },
+                        "resource_name": null,
+                        "rollingcreditstime": "-30",
+                        "rollingcreditstimedb": null,
+                        "proveedor": {
+                            "id": "1",
+                            "codigo": "amco",
+                            "nombre": "AMCO"
+                        },
+                        "rights": {
+                            "start_date": "2015-09-01",
+                            "end_date": "2021-12-31"
+                        },
+                        "channel_number": null,
+                        "language": {
+                            "original": {
+                                "id": "ING",
+                                "desc": "Inglés"
+                            },
+                            "dubbed": "true",
+                            "subbed": "true",
+                            "options": {
+                                "option": [
+                                    {
+                                        "group_id": "698252",
+                                        "content_id": "666966",
+                                        "current_content": "false",
+                                        "option_id": "O-EN",
+                                        "audio": "ORIGINAL",
+                                        "subtitle": null,
+                                        "option_name": "original",
+                                        "id": "EN",
+                                        "desc": "Inglés",
+                                        "label_short": "Id. Inglés",
+                                        "label_large": "Idioma Original Inglés",
+                                        "intro_start_time": null,
+                                        "intro_finish_time": null,
+                                        "credits_start_time": "-30",
+                                        "encodes": [
+                                            "hls",
+                                            "hlsfps",
+                                            "hlsprm",
+                                            "est_sd",
+                                            "est_hd",
+                                            "smooth_streaming",
+                                            "dashpr",
+                                            "dashwv"
+                                        ],
+                                        "fast_play": []
+                                    },
+                                    {
+                                        "group_id": "698252",
+                                        "content_id": "667006",
+                                        "current_content": "false",
+                                        "option_id": "D-ES",
+                                        "audio": "ES",
+                                        "subtitle": null,
+                                        "option_name": "dubbed",
+                                        "id": "ES",
+                                        "desc": "Español",
+                                        "label_short": "Dob. Español",
+                                        "label_large": "Doblada al Español",
+                                        "intro_start_time": null,
+                                        "intro_finish_time": null,
+                                        "credits_start_time": "-30",
+                                        "encodes": [
+                                            "hls",
+                                            "hlsfps",
+                                            "hlsprm",
+                                            "est_sd",
+                                            "est_hd",
+                                            "smooth_streaming",
+                                            "dashpr",
+                                            "dashwv"
+                                        ],
+                                        "fast_play": []
+                                    },
+                                    {
+                                        "group_id": "698252",
+                                        "content_id": "667007",
+                                        "current_content": "false",
+                                        "option_id": "S-ES",
+                                        "audio": "ORIGINAL",
+                                        "subtitle": "ES",
+                                        "option_name": "subbed",
+                                        "id": "ES",
+                                        "desc": "Español",
+                                        "label_short": "Subt. Español",
+                                        "label_large": "Subtitulada al Español",
+                                        "intro_start_time": null,
+                                        "intro_finish_time": null,
+                                        "credits_start_time": "-30",
+                                        "encodes": [
+                                            "hls",
+                                            "hlsfps",
+                                            "hlsprm",
+                                            "est_sd",
+                                            "est_hd",
+                                            "smooth_streaming",
+                                            "dashpr",
+                                            "dashwv"
+                                        ],
+                                        "fast_play": []
+                                    },
+                                    {
+                                        "group_id": "698252",
+                                        "content_id": "667010",
+                                        "current_content": "false",
+                                        "option_id": "S-PT",
+                                        "audio": "ORIGINAL",
+                                        "subtitle": "PT",
+                                        "option_name": "subbed",
+                                        "id": "PT",
+                                        "desc": "Portugués",
+                                        "label_short": "Subt. Portugués",
+                                        "label_large": "Subtitulada al Portugués",
+                                        "intro_start_time": null,
+                                        "intro_finish_time": null,
+                                        "credits_start_time": "-30",
+                                        "encodes": [
+                                            "hls",
+                                            "hlsfps",
+                                            "hlsprm",
+                                            "est_sd",
+                                            "est_hd",
+                                            "smooth_streaming",
+                                            "dashpr",
+                                            "dashwv"
+                                        ],
+                                        "fast_play": []
+                                    },
+                                    {
+                                        "group_id": "698252",
+                                        "content_id": "667012",
+                                        "current_content": "false",
+                                        "option_id": "D-PT",
+                                        "audio": "PT",
+                                        "subtitle": null,
+                                        "option_name": "dubbed",
+                                        "id": "PT",
+                                        "desc": "Portugués",
+                                        "label_short": "Dob. Portugués",
+                                        "label_large": "Doblada al Portugués",
+                                        "intro_start_time": null,
+                                        "intro_finish_time": null,
+                                        "credits_start_time": "-30",
+                                        "encodes": [
+                                            "hls",
+                                            "hlsfps",
+                                            "hlsprm",
+                                            "est_sd",
+                                            "est_hd",
+                                            "smooth_streaming",
+                                            "dashpr",
+                                            "dashwv"
+                                        ],
+                                        "fast_play": []
+                                    }
+                                ],
+                                "count": 5
+                            }
+                        }
+                    }
+                },
+                "ranking": {
+                    "views_count": 15762,
+                    "votes_count": 238,
+                    "average_votes": 4
+                }
+            },
+            "universal_id": {
+                "content_providers": [
+                    {
+                        "group_id": "698252",
+                        "provider_id": "1",
+                        "provider_code": "amco"
+                    },
+                    {
+                        "group_id": "899170",
+                        "provider_id": "10",
+                        "provider_code": "now"
+                    }
+                ],
+                "metadata_providers": {
+                    "gracenote": {
+                        "reference_id": "3547340",
+                        "provider_id": "3",
+                        "provider_code": "gracenote"
+                    }
+                }
+            },
+            "external": {
+                "gracenote": {
+                    "id": "3547340",
+                    "provider_id": "3",
+                    "provider_code": "gracenote",
+                    "title": "Sherlock Holmes",
+                    "description": "El ingenioso detective y su compañero, que se dedican a resolver crímenes, se enfrentan a un nuevo enemigo e intentan desenredar un plan mortal que podría destruir Inglaterra.",
+                    "duration": "02:08:00",
+                    "publishyear": "2009",
+                    "official_url": "http:\/\/sherlock-holmes-movie.warnerbros.com\/",
+                    "rating": "PG-13",
+                    "rating_classind": "14",
+                    "cast": [
+                        {
+                            "role_id": "1",
+                            "role_name": "Actor",
+                            "talents": [
+                                {
+                                    "id": "617296",
+                                    "first_name": "Robert",
+                                    "last_name": "Maillet",
+                                    "image": "https:\/\/clarovideocdn1.clarovideo.net\/GRACENOTE\/TALENT\/617296\/EXPORTACION_WEB\/617296.jpg",
+                                    "internal_ids": [
+                                        130664192
+                                    ]
+                                },
+                                {
+                                    "id": "273505",
+                                    "first_name": "Rachel",
+                                    "last_name": "McAdams",
+                                    "image": "https:\/\/clarovideocdn1.clarovideo.net\/GRACENOTE\/TALENT\/273505\/EXPORTACION_WEB\/273505.jpg",
+                                    "internal_ids": [
+                                        15663929
+                                    ]
+                                },
+                                {
+                                    "id": "213831",
+                                    "first_name": "Eddie",
+                                    "last_name": "Marsan",
+                                    "image": "https:\/\/clarovideocdn1.clarovideo.net\/GRACENOTE\/TALENT\/213831\/EXPORTACION_WEB\/213831.jpg",
+                                    "internal_ids": [
+                                        66035971
+                                    ]
+                                },
+                                {
+                                    "id": "182175",
+                                    "first_name": "Kelly",
+                                    "last_name": "Reilly",
+                                    "image": "https:\/\/clarovideocdn1.clarovideo.net\/GRACENOTE\/TALENT\/182175\/EXPORTACION_WEB\/182175.jpg",
+                                    "internal_ids": [
+                                        22973366
+                                    ]
+                                },
+                                {
+                                    "id": "161778",
+                                    "first_name": "Mark",
+                                    "last_name": "Strong",
+                                    "image": "https:\/\/clarovideocdn1.clarovideo.net\/GRACENOTE\/TALENT\/161778\/EXPORTACION_WEB\/161778.jpg",
+                                    "internal_ids": [
+                                        15025252
+                                    ]
+                                },
+                                {
+                                    "id": "75259",
+                                    "first_name": "James",
+                                    "last_name": "Fox",
+                                    "image": "https:\/\/clarovideocdn9.clarovideo.net\/GRACENOTE\/TALENT\/75259\/EXPORTACION_WEB\/75259.jpg",
+                                    "internal_ids": [
+                                        13663509
+                                    ]
+                                },
+                                {
+                                    "id": "71369",
+                                    "first_name": "Jude",
+                                    "last_name": "Law",
+                                    "image": "https:\/\/clarovideocdn9.clarovideo.net\/GRACENOTE\/TALENT\/71369\/EXPORTACION_WEB\/71369.jpg",
+                                    "internal_ids": [
+                                        13639905
+                                    ]
+                                },
+                                {
+                                    "id": "67369",
+                                    "first_name": "Robert",
+                                    "last_name": "Downey",
+                                    "image": "https:\/\/clarovideocdn9.clarovideo.net\/GRACENOTE\/TALENT\/67369\/EXPORTACION_WEB\/67369.jpg",
+                                    "internal_ids": [
+                                        13636815
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "role_id": "74",
+                            "role_name": "Cinematographer",
+                            "talents": [
+                                {
+                                    "id": "164201",
+                                    "first_name": "Philippe",
+                                    "last_name": "Rousselot",
+                                    "image": "https:\/\/clarovideocdn1.clarovideo.net\/GRACENOTE\/TALENT\/164201\/EXPORTACION_WEB\/164201.jpg",
+                                    "internal_ids": [
+                                        13641919
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "role_id": "99",
+                            "role_name": "Costume Designer",
+                            "talents": [
+                                {
+                                    "id": "457740",
+                                    "first_name": "Jenny",
+                                    "last_name": "Beavan",
+                                    "image": "https:\/\/clarovideocdn1.clarovideo.net\/GRACENOTE\/TALENT\/457740\/EXPORTACION_WEB\/457740.jpg",
+                                    "internal_ids": []
+                                }
+                            ]
+                        },
+                        {
+                            "role_id": "114",
+                            "role_name": "Director",
+                            "talents": [
+                                {
+                                    "id": "165166",
+                                    "first_name": "Guy",
+                                    "last_name": "Ritchie",
+                                    "image": "https:\/\/clarovideocdn1.clarovideo.net\/GRACENOTE\/TALENT\/165166\/EXPORTACION_WEB\/165166.jpg",
+                                    "internal_ids": [
+                                        13653902
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "role_id": "132",
+                            "role_name": "Executive Producer",
+                            "talents": [
+                                {
+                                    "id": "429879",
+                                    "first_name": "Michael",
+                                    "last_name": "Tadross",
+                                    "image": "https:\/\/clarovideocdn1.clarovideo.net\/GRACENOTE\/TALENT\/429879\/EXPORTACION_WEB\/429879.jpg",
+                                    "internal_ids": [
+                                        137453657
+                                    ]
+                                },
+                                {
+                                    "id": "341177",
+                                    "first_name": "Bruce",
+                                    "last_name": "Berman",
+                                    "image": "https:\/\/clarovideocdn1.clarovideo.net\/GRACENOTE\/TALENT\/341177\/EXPORTACION_WEB\/341177.jpg",
+                                    "internal_ids": [
+                                        138681533
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "role_id": "136",
+                            "role_name": "Film Editor",
+                            "talents": [
+                                {
+                                    "id": "495888",
+                                    "first_name": "James",
+                                    "last_name": "Herbert",
+                                    "image": "",
+                                    "internal_ids": [
+                                        134657699
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "role_id": "204",
+                            "role_name": "Original Music",
+                            "talents": [
+                                {
+                                    "id": "442373",
+                                    "first_name": "Hans",
+                                    "last_name": "Zimmer",
+                                    "image": "https:\/\/clarovideocdn1.clarovideo.net\/GRACENOTE\/TALENT\/442373\/EXPORTACION_WEB\/442373.jpg",
+                                    "internal_ids": [
+                                        138746204
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "role_id": "216",
+                            "role_name": "Producer",
+                            "talents": [
+                                {
+                                    "id": "523565",
+                                    "first_name": "Dan",
+                                    "last_name": "Lin",
+                                    "image": "https:\/\/clarovideocdn1.clarovideo.net\/GRACENOTE\/TALENT\/523565\/EXPORTACION_WEB\/523565.jpg",
+                                    "internal_ids": [
+                                        138679778
+                                    ]
+                                },
+                                {
+                                    "id": "503057",
+                                    "first_name": "Susan",
+                                    "last_name": "Downey",
+                                    "image": "https:\/\/clarovideocdn1.clarovideo.net\/GRACENOTE\/TALENT\/503057\/EXPORTACION_WEB\/503057.jpg",
+                                    "internal_ids": [
+                                        138671574
+                                    ]
+                                },
+                                {
+                                    "id": "438780",
+                                    "first_name": "Lionel",
+                                    "last_name": "Wigram",
+                                    "image": "https:\/\/clarovideocdn1.clarovideo.net\/GRACENOTE\/TALENT\/438780\/EXPORTACION_WEB\/438780.jpg",
+                                    "internal_ids": [
+                                        138671640
+                                    ]
+                                },
+                                {
+                                    "id": "182601",
+                                    "first_name": "Joel",
+                                    "last_name": "Silver",
+                                    "image": "https:\/\/clarovideocdn1.clarovideo.net\/GRACENOTE\/TALENT\/182601\/EXPORTACION_WEB\/182601.jpg",
+                                    "internal_ids": [
+                                        130659912
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "role_id": "228",
+                            "role_name": "Production Design",
+                            "talents": [
+                                {
+                                    "id": "495415",
+                                    "first_name": "Sarah",
+                                    "last_name": "Greenwood",
+                                    "image": "https:\/\/clarovideocdn1.clarovideo.net\/GRACENOTE\/TALENT\/495415\/EXPORTACION_WEB\/495415.jpg",
+                                    "internal_ids": []
+                                }
+                            ]
+                        },
+                        {
+                            "role_id": "253",
+                            "role_name": "Screenwriter",
+                            "talents": [
+                                {
+                                    "id": "546857",
+                                    "first_name": "Michael Robert",
+                                    "last_name": "Johnson",
+                                    "image": "",
+                                    "internal_ids": [
+                                        117801377,
+                                        138710729
+                                    ]
+                                },
+                                {
+                                    "id": "322865",
+                                    "first_name": "Simon",
+                                    "last_name": "Kinberg",
+                                    "image": "https:\/\/clarovideocdn1.clarovideo.net\/GRACENOTE\/TALENT\/322865\/EXPORTACION_WEB\/322865.jpg",
+                                    "internal_ids": [
+                                        118633072
+                                    ]
+                                },
+                                {
+                                    "id": "241693",
+                                    "first_name": "Anthony",
+                                    "last_name": "Peckham",
+                                    "image": "https:\/\/clarovideocdn1.clarovideo.net\/GRACENOTE\/TALENT\/241693\/EXPORTACION_WEB\/241693.jpg",
+                                    "internal_ids": [
+                                        138671564
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "genres": [
+                        "Acción",
+                        "Aventuras",
+                        "Misterio"
+                    ],
+                    "keywords": [
+                        {
+                            "type": "Character",
+                            "keys": [
+                                "Doctor Watson",
+                                "Inspector",
+                                "Lord",
+                                "Politician",
+                                "Sherlock Holmes",
+                                "Thief"
+                            ]
+                        },
+                        {
+                            "type": "Mood",
+                            "keys": [
+                                "Amusing",
+                                "Crafty",
+                                "Gritty",
+                                "Thrilling"
+                            ]
+                        },
+                        {
+                            "type": "Setting",
+                            "keys": [
+                                "Apartment",
+                                "London",
+                                "Parliament",
+                                "Shipyard",
+                                "Tower Bridge",
+                                "Underground"
+                            ]
+                        },
+                        {
+                            "type": "Subject",
+                            "keys": [
+                                "Conspiracy",
+                                "Deception",
+                                "Investigation",
+                                "Murder",
+                                "Occult",
+                                "Technology"
+                            ]
+                        },
+                        {
+                            "type": "Theme",
+                            "keys": [
+                                "Adventure",
+                                "Mystery"
+                            ]
+                        },
+                        {
+                            "type": "Time Period",
+                            "keys": [
+                                "19th century"
+                            ]
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    "status": "0",
+    "msg": "OK"
+}

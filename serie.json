@@ -1,0 +1,458 @@
+{
+    "entry": {
+        "group_id": "599764",
+        "api_version": "v5.92",
+        "HKS": "b8ul2hm40u3e5pqmlp4g5nojk6",
+        "authpt": "tfg1h3j4k6fd7",
+        "authpn": "webclient",
+        "format": "json",
+        "region": "argentina",
+        "device_id": "web",
+        "device_category": "web",
+        "device_model": "web",
+        "device_type": "web",
+        "device_manufacturer": "generic",
+        "isCacheable": "true"
+    },
+    "response": {
+        "group": {
+            "common": {
+                "position": 0,
+                "id": "599764",
+                "title": "El niño en el iceberg (El regreso del Avatar Parte 1)",
+                "description": "Dos hermanos encuentran a un niño congelado y descubren que es un maestro aire.",
+                "large_description": "Los hermanos Katara y Sokka encuentran a un niño congelado en un iceberg y descubren que es uno de los maestros aire, a quienes se creía extintos. Zuko, el príncipe exiliado de la Nación del Fuego, sigue su rastro hasta la Tribu Agua del Sur.",
+                "short_description": null,
+                "duration": "00:23:26",
+                "image_large_alt": "Avatar: La Leyenda de Aang - T01-Ep01",
+                "image_medium_alt": "Avatar: La Leyenda de Aang - T01-Ep01",
+                "image_small_alt": "Avatar: La Leyenda de Aang - T01-Ep01",
+                "image_large": "https:\/\/clarovideocdn6.clarovideo.net\/SERIES\/AVATARTHELEGENDOFAANG-01-01-00\/EXPORTACION_WEB\/SS\/AVATARTHELEGENDOFAANG-01-01-00WHORIZONTAL.jpg?size=675x380",
+                "image_medium": "https:\/\/clarovideocdn4.clarovideo.net\/SERIES\/AVATARTHELEGENDOFAANG-01-01-00\/EXPORTACION_WEB\/SS\/AVATARTHELEGENDOFAANG-01-01-00WVERTICAL.jpg?size=200x300",
+                "image_small": "https:\/\/clarovideocdn6.clarovideo.net\/SERIES\/AVATARTHELEGENDOFAANG-01-01-00\/EXPORTACION_WEB\/SS\/AVATARTHELEGENDOFAANG-01-01-00WHORIZONTAL.jpg?size=290x163",
+                "image_still": "https:\/\/clarovideocdn6.clarovideo.net\/PELICULAS\/AVATARTHELEGENDOFAANGTHEBOYINTHEICEBERGTHEAVATARRETURNSPART1-01-01-01\/EXPORTACION_WEB\/STILLS\/AVATARTHELEGENDOFAANGTHEBOYINTHEICEBERGTHEAVATARRETURNSPART1-01-01-01-STILL-01.jpg",
+                "image_background": "https:\/\/clarovideocdn6.clarovideo.net\/SERIES\/AVATARTHELEGENDOFAANG-01-01-00\/EXPORTACION_WEB\/CLEAN\/AVATARTHELEGENDOFAANG-01-01-00_e-1280x720.jpg",
+                "image_base_horizontal": "https:\/\/clarovideocdn3.clarovideo.net\/SERIES\/AVATARTHELEGENDOFAANG-01-01-00\/EXPORTACION_WEB\/SS\/AVATARTHELEGENDOFAANG-01-01-00WHORIZONTAL.jpg",
+                "image_base_vertical": "https:\/\/clarovideocdn1.clarovideo.net\/SERIES\/AVATARTHELEGENDOFAANG-01-01-00\/EXPORTACION_WEB\/SS\/AVATARTHELEGENDOFAANG-01-01-00WVERTICAL.jpg",
+                "image_base_square": "https:\/\/clarovideocdn1.clarovideo.net\/SERIES\/AVATARTHELEGENDOFAANG-01-01-00\/EXPORTACION_WEB\/SS\/AVATARTHELEGENDOFAANG-01-01-00WCUADRADO.jpg",
+                "image_clean_horizontal": "https:\/\/clarovideocdn6.clarovideo.net\/SERIES\/AVATARTHELEGENDOFAANG-01-01-00\/EXPORTACION_WEB\/CLEAN\/AVATARTHELEGENDOFAANG-01-01-00WHORIZONTAL.jpg",
+                "image_clean_vertical": "https:\/\/clarovideocdn4.clarovideo.net\/SERIES\/AVATARTHELEGENDOFAANG-01-01-00\/EXPORTACION_WEB\/CLEAN\/AVATARTHELEGENDOFAANG-01-01-00WVERTICAL.jpg",
+                "image_clean_square": "https:\/\/clarovideocdn4.clarovideo.net\/SERIES\/AVATARTHELEGENDOFAANG-01-01-00\/EXPORTACION_WEB\/CLEAN\/AVATARTHELEGENDOFAANG-01-01-00WCUADRADO.jpg",
+                "image_sprites": "https:\/\/clarovideocdn8.clarovideo.net\/PELICULAS\/AVATARTHELEGENDOFAANGTHEBOYINTHEICEBERGTHEAVATARRETURNSPART1-01-01-01\/EXPORTACION_WEB\/SPRITES\/AVATARTHELEGENDOFAANGTHEBOYINTHEICEBERGTHEAVATARRETURNSPART1-01-01-01-SPRITEBAR.jpg",
+                "image_frames": "https:\/\/clarovideocdn4.clarovideo.net\/PELICULAS\/AVATARTHELEGENDOFAANGTHEBOYINTHEICEBERGTHEAVATARRETURNSPART1-01-01-01\/EXPORTACION_WEB\/SPRITES\/AVATARTHELEGENDOFAANGTHEBOYINTHEICEBERGTHEAVATARRETURNSPART1-01-01-01-00h-00m-00s-00f.jpg",
+                "image_external": null,
+                "date": "08\/07\/2020",
+                "media_type": "2",
+                "title_uri": "El-nino-en-el-iceberg-El-regreso-del-Avatar-Parte-1-",
+                "extendedcommon": {
+                    "keywords": {
+                        "keyword": [
+                            "5320",
+                            "5418",
+                            "5420",
+                            "6500",
+                            "6700",
+                            "50001",
+                            "50002",
+                            "50006",
+                            "50009",
+                            "51000",
+                            "51001",
+                            "51010",
+                            "51022",
+                            "52181",
+                            "52183",
+                            "53003",
+                            "53004",
+                            "55002",
+                            "102000",
+                            "110000",
+                            "112000",
+                            "118000",
+                            "118026",
+                            "118028"
+                        ]
+                    },
+                    "genres": {
+                        "genre": [
+                            {
+                                "id": "51121",
+                                "name": "Children",
+                                "desc": "Niños"
+                            },
+                            {
+                                "id": "51126",
+                                "name": "Animation",
+                                "desc": "Animación"
+                            },
+                            {
+                                "id": "52540",
+                                "name": "TV Series",
+                                "desc": "Series"
+                            },
+                            {
+                                "id": "52820",
+                                "name": "Anime",
+                                "desc": "Anime"
+                            },
+                            {
+                                "id": "51022",
+                                "name": "Adventure",
+                                "desc": "Aventura"
+                            }
+                        ]
+                    },
+                    "roles": {
+                        "role": [
+                            {
+                                "id": "13617517",
+                                "name": "Director",
+                                "desc": "Director",
+                                "talents": {
+                                    "talent": [
+                                        {
+                                            "id": "15025401",
+                                            "name": "Dave",
+                                            "surname": "Filoni",
+                                            "fullname": "Filoni, Dave"
+                                        }
+                                    ]
+                                }
+                            },
+                            {
+                                "id": "13965648",
+                                "name": "Voice",
+                                "desc": "Voz",
+                                "talents": {
+                                    "talent": [
+                                        {
+                                            "id": "98828937",
+                                            "name": "Jack",
+                                            "surname": "De Sena",
+                                            "fullname": "De Sena, Jack"
+                                        },
+                                        {
+                                            "id": "98828924",
+                                            "name": "Zach",
+                                            "surname": "Tyler",
+                                            "fullname": "Tyler, Zach"
+                                        },
+                                        {
+                                            "id": "13649759",
+                                            "name": "Mae",
+                                            "surname": "Whitman",
+                                            "fullname": "Whitman, Mae"
+                                        }
+                                    ]
+                                }
+                            }
+                        ]
+                    },
+                    "format": {
+                        "id": "42223249",
+                        "name": "Type 6",
+                        "types": "susc",
+                        "sell_type": "susc",
+                        "est": "N"
+                    },
+                    "media": {
+                        "originaltitle": "Avatar: The Legend of Aang: The Boy in the Iceberg (The Avatar Returns Part 1)",
+                        "description_extended": "Los hermanos Katara y Sokka encuentran a un niño congelado en un iceberg y descubren que es uno de los maestros aire, a quienes se creía extintos. Zuko, el príncipe exiliado de la Nación del Fuego, sigue su rastro hasta la Tribu Agua del Sur.",
+                        "publishyear": "2005",
+                        "boxoffice": "0.0",
+                        "rating": {
+                            "id": "10",
+                            "code": "G",
+                            "desc": "ATP (Apto para todo público)"
+                        },
+                        "duration": "00:23:26",
+                        "haspreview": "false",
+                        "countryoforigin": {
+                            "code": "US",
+                            "desc": "Estados Unidos"
+                        },
+                        "profile": {
+                            "audiotype": "MA GENERAL",
+                            "videotype": "Color",
+                            "screenformat": "4:3",
+                            "hd": {
+                                "enabled": "false"
+                            }
+                        },
+                        "islive": "0",
+                        "livetype": null,
+                        "liveref": null,
+                        "timeshift": null,
+                        "encoder_tecnology": {
+                            "id": null,
+                            "desc": null
+                        },
+                        "recorder_technology": {
+                            "id": null,
+                            "desc": null
+                        },
+                        "resource_name": null,
+                        "rollingcreditstime": "-45",
+                        "rollingcreditstimedb": "-45",
+                        "proveedor": {
+                            "id": "1",
+                            "codigo": "amco",
+                            "nombre": "AMCO"
+                        },
+                        "rights": {
+                            "start_date": "2014-07-01",
+                            "end_date": "2021-08-11"
+                        },
+                        "serie": {
+                            "id": "6163",
+                            "title": "Avatar: La Leyenda de Aang",
+                            "last_season": "3",
+                            "image_large": "https:\/\/clarovideocdn6.clarovideo.net\/SERIES\/AVATARTHELEGENDOFAANG-03-03-00\/EXPORTACION_WEB\/SS\/AVATARTHELEGENDOFAANG-03-03-00WHORIZONTAL.jpg?size=675x380",
+                            "image_medium": "https:\/\/clarovideocdn4.clarovideo.net\/SERIES\/AVATARTHELEGENDOFAANG-03-03-00\/EXPORTACION_WEB\/SS\/AVATARTHELEGENDOFAANG-03-03-00WVERTICAL.jpg?size=200x300",
+                            "image_small": "https:\/\/clarovideocdn6.clarovideo.net\/SERIES\/AVATARTHELEGENDOFAANG-03-03-00\/EXPORTACION_WEB\/SS\/AVATARTHELEGENDOFAANG-03-03-00WHORIZONTAL.jpg?size=290x163",
+                            "image_still": "https:\/\/clarovideocdn5.clarovideo.net\/SERIES\/AVATARTHELEGENDOFAANG-03-03-00\/EXPORTACION_WEB\/STILLS\/AVATARTHELEGENDOFAANG-03-03-00-STILL-01.jpg",
+                            "image_background": "https:\/\/clarovideocdn6.clarovideo.net\/SERIES\/AVATARTHELEGENDOFAANG-03-03-00\/EXPORTACION_WEB\/CLEAN\/AVATARTHELEGENDOFAANG-03-03-00_e-1280x720.jpg",
+                            "image_base_horizontal": "https:\/\/clarovideocdn3.clarovideo.net\/SERIES\/AVATARTHELEGENDOFAANG-03-03-00\/EXPORTACION_WEB\/SS\/AVATARTHELEGENDOFAANG-03-03-00WHORIZONTAL.jpg",
+                            "image_base_vertical": "https:\/\/clarovideocdn1.clarovideo.net\/SERIES\/AVATARTHELEGENDOFAANG-03-03-00\/EXPORTACION_WEB\/SS\/AVATARTHELEGENDOFAANG-03-03-00WVERTICAL.jpg",
+                            "image_base_square": "https:\/\/clarovideocdn1.clarovideo.net\/SERIES\/AVATARTHELEGENDOFAANG-03-03-00\/EXPORTACION_WEB\/SS\/AVATARTHELEGENDOFAANG-03-03-00WCUADRADO.jpg",
+                            "image_clean_horizontal": "https:\/\/clarovideocdn6.clarovideo.net\/SERIES\/AVATARTHELEGENDOFAANG-03-03-00\/EXPORTACION_WEB\/CLEAN\/AVATARTHELEGENDOFAANG-03-03-00WHORIZONTAL.jpg",
+                            "image_clean_vertical": "https:\/\/clarovideocdn4.clarovideo.net\/SERIES\/AVATARTHELEGENDOFAANG-03-03-00\/EXPORTACION_WEB\/CLEAN\/AVATARTHELEGENDOFAANG-03-03-00WVERTICAL.jpg",
+                            "image_clean_square": "https:\/\/clarovideocdn4.clarovideo.net\/SERIES\/AVATARTHELEGENDOFAANG-03-03-00\/EXPORTACION_WEB\/CLEAN\/AVATARTHELEGENDOFAANG-03-03-00WCUADRADO.jpg"
+                        },
+                        "serieseason": {
+                            "id": "1395",
+                            "number": "1",
+                            "image_large": "https:\/\/clarovideocdn6.clarovideo.net\/SERIES\/AVATARTHELEGENDOFAANG-01-01-00\/EXPORTACION_WEB\/SS\/AVATARTHELEGENDOFAANG-01-01-00WHORIZONTAL.jpg?size=675x380",
+                            "image_medium": "https:\/\/clarovideocdn4.clarovideo.net\/SERIES\/AVATARTHELEGENDOFAANG-01-01-00\/EXPORTACION_WEB\/SS\/AVATARTHELEGENDOFAANG-01-01-00WVERTICAL.jpg?size=200x300",
+                            "image_small": "https:\/\/clarovideocdn6.clarovideo.net\/SERIES\/AVATARTHELEGENDOFAANG-01-01-00\/EXPORTACION_WEB\/SS\/AVATARTHELEGENDOFAANG-01-01-00WHORIZONTAL.jpg?size=290x163",
+                            "image_still": "https:\/\/clarovideocdn5.clarovideo.net\/SERIES\/AVATARTHELEGENDOFAANG-01-01-00\/EXPORTACION_WEB\/STILLS\/AVATARTHELEGENDOFAANG-01-01-00-STILL-01.jpg",
+                            "image_background": "https:\/\/clarovideocdn6.clarovideo.net\/SERIES\/AVATARTHELEGENDOFAANG-01-01-00\/EXPORTACION_WEB\/CLEAN\/AVATARTHELEGENDOFAANG-01-01-00_e-1280x720.jpg",
+                            "image_base_horizontal": "https:\/\/clarovideocdn3.clarovideo.net\/SERIES\/AVATARTHELEGENDOFAANG-01-01-00\/EXPORTACION_WEB\/SS\/AVATARTHELEGENDOFAANG-01-01-00WHORIZONTAL.jpg",
+                            "image_base_vertical": "https:\/\/clarovideocdn1.clarovideo.net\/SERIES\/AVATARTHELEGENDOFAANG-01-01-00\/EXPORTACION_WEB\/SS\/AVATARTHELEGENDOFAANG-01-01-00WVERTICAL.jpg",
+                            "image_base_square": "https:\/\/clarovideocdn1.clarovideo.net\/SERIES\/AVATARTHELEGENDOFAANG-01-01-00\/EXPORTACION_WEB\/SS\/AVATARTHELEGENDOFAANG-01-01-00WCUADRADO.jpg",
+                            "image_clean_horizontal": "https:\/\/clarovideocdn6.clarovideo.net\/SERIES\/AVATARTHELEGENDOFAANG-01-01-00\/EXPORTACION_WEB\/CLEAN\/AVATARTHELEGENDOFAANG-01-01-00WHORIZONTAL.jpg",
+                            "image_clean_vertical": "https:\/\/clarovideocdn4.clarovideo.net\/SERIES\/AVATARTHELEGENDOFAANG-01-01-00\/EXPORTACION_WEB\/CLEAN\/AVATARTHELEGENDOFAANG-01-01-00WVERTICAL.jpg",
+                            "image_clean_square": "https:\/\/clarovideocdn4.clarovideo.net\/SERIES\/AVATARTHELEGENDOFAANG-01-01-00\/EXPORTACION_WEB\/CLEAN\/AVATARTHELEGENDOFAANG-01-01-00WCUADRADO.jpg"
+                        },
+                        "episode": {
+                            "season": "1",
+                            "number": "1"
+                        },
+                        "channel_number": null,
+                        "language": {
+                            "original": {
+                                "id": "ING",
+                                "desc": "Inglés"
+                            },
+                            "dubbed": "true",
+                            "subbed": "false",
+                            "options": {
+                                "option": [
+                                    {
+                                        "group_id": "599764",
+                                        "content_id": "799891",
+                                        "current_content": "false",
+                                        "option_id": "D-ES",
+                                        "audio": "ES",
+                                        "subtitle": null,
+                                        "option_name": "dubbed",
+                                        "id": "ES",
+                                        "desc": "Español",
+                                        "label_short": "Dob. Español",
+                                        "label_large": "Doblada al Español",
+                                        "intro_start_time": "10",
+                                        "intro_finish_time": "71",
+                                        "credits_start_time": "-45",
+                                        "encodes": [
+                                            "hls",
+                                            "hlsfps",
+                                            "hls_ma",
+                                            "hlsfps_ma",
+                                            "hlsprm",
+                                            "smooth_streaming",
+                                            "smooth_streaming_ma",
+                                            "dashpr",
+                                            "dashwv",
+                                            "dashwv_ma",
+                                            "dashpr_ma"
+                                        ],
+                                        "fast_play": []
+                                    },
+                                    {
+                                        "group_id": "599764",
+                                        "content_id": "799892",
+                                        "current_content": "false",
+                                        "option_id": "D-PT",
+                                        "audio": "PT",
+                                        "subtitle": null,
+                                        "option_name": "dubbed",
+                                        "id": "PT",
+                                        "desc": "Portugués",
+                                        "label_short": "Dob. Portugués",
+                                        "label_large": "Doblada al Portugués",
+                                        "intro_start_time": "10",
+                                        "intro_finish_time": "71",
+                                        "credits_start_time": "-45",
+                                        "encodes": [
+                                            "hls",
+                                            "hlsfps",
+                                            "hls_ma",
+                                            "hlsfps_ma",
+                                            "hlsprm",
+                                            "smooth_streaming",
+                                            "smooth_streaming_ma",
+                                            "dashpr",
+                                            "dashwv",
+                                            "dashwv_ma",
+                                            "dashpr_ma"
+                                        ],
+                                        "fast_play": []
+                                    },
+                                    {
+                                        "group_id": "599764",
+                                        "content_id": "799905",
+                                        "current_content": "false",
+                                        "option_id": "O-EN",
+                                        "audio": "ORIGINAL",
+                                        "subtitle": null,
+                                        "option_name": "original",
+                                        "id": "EN",
+                                        "desc": "Inglés",
+                                        "label_short": "Id. Inglés",
+                                        "label_large": "Idioma Original Inglés",
+                                        "intro_start_time": "10",
+                                        "intro_finish_time": "71",
+                                        "credits_start_time": "-45",
+                                        "encodes": [
+                                            "hls",
+                                            "hlsfps",
+                                            "hls_ma",
+                                            "hlsfps_ma",
+                                            "hlsprm",
+                                            "smooth_streaming",
+                                            "smooth_streaming_ma",
+                                            "dashpr",
+                                            "dashwv",
+                                            "dashwv_ma",
+                                            "dashpr_ma"
+                                        ],
+                                        "fast_play": []
+                                    }
+                                ],
+                                "count": 3
+                            }
+                        }
+                    }
+                },
+                "ranking": {
+                    "views_count": 674152,
+                    "votes_count": 8599,
+                    "average_votes": 4
+                }
+            },
+            "universal_id": {
+                "content_providers": [
+                    {
+                        "group_id": "599764",
+                        "provider_id": "1",
+                        "provider_code": "amco"
+                    },
+                    {
+                        "group_id": "859239",
+                        "provider_id": "10",
+                        "provider_code": "now"
+                    }
+                ],
+                "metadata_providers": {
+                    "gracenote": {
+                        "reference_id": "3119307",
+                        "provider_id": "3",
+                        "provider_code": "gracenote"
+                    }
+                }
+            },
+            "external": {
+                "gracenote": {
+                    "id": "3119307",
+                    "provider_id": "3",
+                    "provider_code": "gracenote",
+                    "title": "Avatar: La leyenda de Aang",
+                    "description": "Los hermanos de la Tribu de Agua del Sur descubren a un muchacho de 12 años congelado en un iceberg.",
+                    "duration": "00:25:00",
+                    "publishyear": null,
+                    "official_url": null,
+                    "rating": "PG",
+                    "rating_classind": "L",
+                    "cast": [
+                        {
+                            "role_id": "16",
+                            "role_name": "Voice",
+                            "talents": [
+                                {
+                                    "id": "313126",
+                                    "first_name": "Jack",
+                                    "last_name": "De Sena",
+                                    "image": "https:\/\/clarovideocdn1.clarovideo.net\/GRACENOTE\/TALENT\/313126\/EXPORTACION_WEB\/313126.jpg",
+                                    "internal_ids": [
+                                        98828937
+                                    ]
+                                },
+                                {
+                                    "id": "313124",
+                                    "first_name": "Zachery",
+                                    "last_name": "Tyler",
+                                    "image": "https:\/\/clarovideocdn1.clarovideo.net\/GRACENOTE\/TALENT\/313124\/EXPORTACION_WEB\/313124.jpg",
+                                    "internal_ids": [
+                                        98828924
+                                    ]
+                                },
+                                {
+                                    "id": "73815",
+                                    "first_name": "Mae",
+                                    "last_name": "Whitman",
+                                    "image": "https:\/\/clarovideocdn9.clarovideo.net\/GRACENOTE\/TALENT\/73815\/EXPORTACION_WEB\/73815.jpg",
+                                    "internal_ids": [
+                                        13649759
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "role_id": "132",
+                            "role_name": "Executive Producer",
+                            "talents": [
+                                {
+                                    "id": "550754",
+                                    "first_name": "Michael Dante",
+                                    "last_name": "DiMartino",
+                                    "image": "https:\/\/clarovideocdn1.clarovideo.net\/GRACENOTE\/TALENT\/550754\/EXPORTACION_WEB\/550754.jpg",
+                                    "internal_ids": [
+                                        138673574
+                                    ]
+                                },
+                                {
+                                    "id": "313128",
+                                    "first_name": "Bryan",
+                                    "last_name": "Konietzko",
+                                    "image": "https:\/\/clarovideocdn1.clarovideo.net\/GRACENOTE\/TALENT\/313128\/EXPORTACION_WEB\/313128.jpg",
+                                    "internal_ids": [
+                                        138719401
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "genres": [
+                        "Acción",
+                        "Aventuras",
+                        "Fantasía",
+                        "Dibujos animados",
+                        "Infantil"
+                    ]
+                }
+            }
+        }
+    },
+    "status": "0",
+    "msg": "OK"
+}
