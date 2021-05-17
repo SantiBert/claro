@@ -57,7 +57,7 @@ for link in links_ids:
         try:
             talents = extra_data["roles"]["role"]
         except:
-            genres = None
+            talents = None
 
         # Agrega a la lista products los elementos de la serie o pelicula
         product.append({'product': {
